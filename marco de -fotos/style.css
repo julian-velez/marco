@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #031321;
+    
+} 
+
+div {
+    margin: 105px 50px 50px 50px;
+    width: 260px;
+    height: 290px;
+    position: fixed;
+    background: transparent;
+    border: white solid 4px;
+    border-radius: 12px;
+    Box-shadow: inset 0px 0px 10px  #f148FB , inset 0px 0px 10px #f148FB,0px 0px 30px #f148FB;
+
+    right: 45%;
+    
+}
+
+img {
+    width: 230px;
+    height: 260px;
+    margin: 15px;
+    border-radius: 5px;
+   
+    
+}
